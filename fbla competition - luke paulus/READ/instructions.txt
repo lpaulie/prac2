@@ -1,0 +1,15 @@
+FBLA SLC Project - Luke Paulus
+
+Instructions for running "fbla comp.py" on a Windows 10 system:
+    Note - all asterisks are utilized to differentiate files/commands/directories from surrounding text. Do not type in the asterisks.
+_________________________________________________________________________________________________
+- Ensure ActiveState Python 3.10.8 is installed on Windows machine. 
+- Ensure "tk" is installed for Tkinter GUI support. For help view https://www.geeksforgeeks.org/how-to-install-tkinter-in-windows/
+- Go to https://github.com/lpaulie/ on your browser
+- Click on the green "Code" button
+- On the prompt window, Click on the "Download Zip" button. This downloads the files in the repository as *luke-paulus-fbla-competition-main.zip*.
+- On the machine, extract the *luke-paulus-fbla-competition-main.zip* to their default location. 
+- In file explorer, navigate to the unzipped files and drag the *fbla competition - luke paulus* subfolder to the C:\ drive. The folder should now be locally kept in *C:\fbla competition - luke paulus*. 
+- Open a Command Prompt window and type *cd C:\fbla competition - luke-paulus\GUI* to navigate to the folder containing the .py file.                       
+- When prompted, type *python fblacomp.py* and run the program.
+- The crendentials for the admin login prompted after pressing the bottom left button in the login window are - name: admin - password: password

@@ -1,0 +1,12 @@
+student_grades.db contains 5 example students with example GPAs. They are representative of the functionality of a list with the name/grades for all students in a school.
+The students names and GPA respectively are as follows:
+    Katerina Woods, 2.67; Yasu Yang; 4.12; Joseph Brooks, 3.14; Lucy Zimmerman, 4.23; Verona Milon, 3.10
+
+The data within students.db can be added/modified using the GUI in fblacomp.py. For demonstration circumstances, students.db will be automatically downloaded to the local machine with the following values:
+
+logincount for Katerina Woods (grade 9): 7
+logincount for Yasu Yang (grade 9): 3
+logincount for Joseph Brooks (grade 10): 6
+logincount for Lucy Zimmerman (grade 11): 4
+logincount for Verona Milon (grade 12): 5
+
